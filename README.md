@@ -1,0 +1,2 @@
+# netminn012docs
+netminn012が開発してる物のドキュメント集
